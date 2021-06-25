@@ -27,12 +27,12 @@ outcomes
 *  Understanding of best practice for MPI+OpenMP programming
 *  Familiarity with neighbourhood collective operations in MPI
 
-Prerequisites:
+<h3>Prerequisites</h3>
 
 Attendees should be familiar with MPI programming in C, C++ or
 Fortran, e.g. have attended the ARCHER2 MPI course.
 
-Requirements:
+<h3>Requirements</h3>
 
 Participants must bring a laptop with a Mac, Linux, or Windows
 operating system (not a tablet, Chromebook, etc.) that they have
@@ -40,7 +40,7 @@ administrative privileges on.
 
 They are also required to abide by the [ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html).
 
-Timetable:
+<h3>Timetable</h3>
 
 This is a two day coures, running on Wednesday 14th and Friday 16th
 July (two separate days); 09:30 to 17:00 each day
@@ -66,6 +66,3 @@ To appear.
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
 To appear.
-
-
-
