@@ -50,7 +50,7 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
  *   16:00 - 17:00 Advanced Collectives
  *   17:00 CLOSE
 
-Day 2: Friday 16th July
+<h4>Day 2: Friday 16th July</h4>
 
  *   09:30 - 11:00 MPI + OpenMP (i)
  *   11:00 - 11:30 Coffee
