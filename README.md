@@ -6,11 +6,9 @@ width="133" height="100">
 
 # ARCHER 2 Advanced MPI course (July 2021)
 
-David Henty EPCC
+<h3>David Henty EPCC: 14 and 16 July 2021 09:30 - 17:00 BST, online<h3>
 
-14 and 16 July 2021 09:30 - 17:00 BST
-
-Online
+This course is part-funded by the PRACE PRACE project and is free to all.
 
 This course is aimed at programmers seeking to deepen their
 understanding of MPI and explore some of its more recent and advanced
@@ -44,8 +42,6 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
 
 This is a two day coures, running on Wednesday 14th and Friday 16th
 July (two separate days); 09:30 to 17:00 each day
-
-This course is part-funded by the PRACE PRACE project and is free to all.
 
 <h3>Lecture Slides</h3>
 
