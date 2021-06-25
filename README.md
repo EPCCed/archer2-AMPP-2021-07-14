@@ -8,8 +8,6 @@ width="133" height="100">
 
 <h3>David Henty EPCC: 14 and 16 July 2021 09:30 - 17:00 BST, online</h3>
 
-This course is part-funded by the PRACE PRACE project and is free to all.
-
 This course is aimed at programmers seeking to deepen their
 understanding of MPI and explore some of its more recent and advanced
 features. We cover topics including exploiting shared-memory access
@@ -38,10 +36,31 @@ administrative privileges on.
 
 They are also required to abide by the [ARCHER2 Code of Conduct](https://www.archer2.ac.uk/about/policies/code-of-conduct.html).
 
-<h3>Timetable</h3>
+<h3>Timetable (all times are in British Summer Time)</h3>
 
-This is a two day coures, running on Wednesday 14th and Friday 16th
-July (two separate days); 09:30 to 17:00 each day
+<h4>Day 1: Wednesday 14th July</h4>
+
+ *   09:30 - 10:00 Registration
+ *   10:00 - 10:30 MPI Quiz
+ *   10:30 - 11:00 MPI Internals
+ *   11:00 - 11:30 Coffee
+ *   11:30 - 13:00 Point-to-point Performance
+ *   13:00 - 14:00 Lunch
+ *   14:00 - 15:30 MPI Optimisations
+ *   15:30 - 16:00 Coffee
+ *   16:00 - 17:00 Advanced Collectives
+ *   17:00 CLOSE
+
+Day 2: Friday 16th July
+
+ *   10:00 - 11:00 MPI + OpenMP (i)
+ *   11:00 - 11:30 Coffee
+ *   11:30 - 13:00 MPI + OpenMP (ii)
+ *   13:00 - 14:00 Lunch
+ *   14:00 - 15:30 New MPI shared-memory model
+ *   15:30 - 16:00 Coffee
+ *   16:00 - 17:00 Finish Exercises
+ *   17:00 CLOSE
 
 <h3>Lecture Slides</h3>
 
