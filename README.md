@@ -40,9 +40,8 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
 
 <h4>Day 1: Wednesday 14th July</h4>
 
- *   09:30 - 10:00 Registration
- *   10:00 - 10:30 MPI Quiz
- *   10:30 - 11:00 MPI Internals
+ *   09:30 - 10:15 MPI Quiz
+ *   10:15 - 11:00 MPI Internals
  *   11:00 - 11:30 Coffee
  *   11:30 - 13:00 Point-to-point Performance
  *   13:00 - 14:00 Lunch
@@ -53,7 +52,7 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
 
 Day 2: Friday 16th July
 
- *   10:00 - 11:00 MPI + OpenMP (i)
+ *   09:30 - 11:00 MPI + OpenMP (i)
  *   11:00 - 11:30 Coffee
  *   11:30 - 13:00 MPI + OpenMP (ii)
  *   13:00 - 14:00 Lunch
