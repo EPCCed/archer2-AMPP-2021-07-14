@@ -74,8 +74,11 @@ for private study. </blockquote></p>
  * Description of 3D halo-swapping benchmark is in this <a href="https://github.com/davidhenty/halobench/">README</a>
  * Download the code directly to ARCHER2 using: `git clone https://github.com/davidhenty/halobench`
  * The collectives exercises are included in <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/collective.tar">this tar file</a>
-   - dd
-   - dd
+   - instructions are included as comments at the top of each file
+   - `mpigather.c` and `mpigather.f90` illustrate using vectors for gather operations;
+   - `mpigather2d.c` and `mpigather2d.f90` extend to gathering a 2D array as described in the lectures;
+   - solutions are include (e.g. `mpigathersol.c`)
+   - there are also other codes that illustrate user-defined operations in reductions (not covered in this course).
  
 <h4>Day 2</h4>
 
