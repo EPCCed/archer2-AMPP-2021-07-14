@@ -71,8 +71,8 @@ for private study. </blockquote></p>
 
  * <a href="exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/pingpong.tar">Ping-pong source code</a>
- * Description of halo benchmark is in this <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14">README</a>
- * Download the code directly to ARCHER using: `git clone https://github.com/EPCCed/archer2-AMPP-2021-07-14`
+ * Description of halo benchmark is in this <a href="https://github.com/davidhenty/halobench/">README</a>
+ * Download the code directly to ARCHER using: `git clone https://github.com/davidhenty/halobench`
  
 <h4>Day 2</h4>
 
