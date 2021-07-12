@@ -38,6 +38,10 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
 
 <h3>Timetable (all times are in British Summer Time)</h3>
 
+<p><blockquote>Unless otherwise indicated all material is Copyright
+&copy; EPCC, The University of Edinburgh, and is only made available
+for private study. </blockquote></p>
+
 <h4>Day 1: Wednesday 14th July</h4>
 
  *   09:30 - 10:15 MPI Quiz
@@ -61,11 +65,7 @@ They are also required to abide by the [ARCHER2 Code of Conduct](https://www.arc
  *   16:00 - 17:00 Finish Exercises
  *   17:00 CLOSE
 
-<h3>Lecture Slides</h3>
-
-<p><blockquote>Unless otherwise indicated all material is Copyright
-&copy; EPCC, The University of Edinburgh, and is only made available
-for private study. </blockquote></p>
+<h3>Exercise Material</h3>
 
 <h4>Day 1</h4>
 
@@ -74,8 +74,6 @@ To appear.
 <h4>Day 2</h4>
 
 To appear.
-
-<h3>Exercise Material</h3>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
