@@ -69,7 +69,8 @@ for private study. </blockquote></p>
 
 <h4>Day 1</h4>
 
-To appear.
+ * <a href="exercises/ARCHER2-pingong.pdf">Ping-pong exercise sheet</a>
+ * <a href="exercises/pingong.tar">Ping-pong source code sheet</a>
 
 <h4>Day 2</h4>
 
