@@ -45,13 +45,13 @@ for private study. </blockquote></p>
 <h4>Day 1: Wednesday 14th July</h4>
 
  *   09:30 - 10:15 MPI Quiz
- *   10:15 - 11:00 MPI History
+ *   10:15 - 11:00 <a href="slides/MPI-Evolution.pdf">MPI History</a>
  *   11:00 - 11:30 Coffee
- *   11:30 - 13:00 Point-to-point Performance
+ *   11:30 - 13:00 <a href="slides/MPI-Internals.pdf">Point-to-point Performance</a>
  *   13:00 - 14:00 Lunch
- *   14:00 - 15:30 MPI Optimisations
+ *   14:00 - 15:30 <a href="slides/MPI-Optimisation-ARCHER2.pdf">MPI Optimisations</a>
  *   15:30 - 16:00 Coffee
- *   16:00 - 17:00 Advanced Collectives
+ *   16:00 - 17:00 <a href="slides/AMPP-Advanced-Collectives.pdf">Collectives</a>
  *   17:00 CLOSE
 
 <h4>Day 2: Friday 16th July</h4>
