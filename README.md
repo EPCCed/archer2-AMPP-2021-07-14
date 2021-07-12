@@ -77,7 +77,7 @@ for private study. </blockquote></p>
    - instructions are included as comments at the top of each file
    - `mpigather.c` and `mpigather.f90` illustrate using vectors for gather operations;
    - `mpigather2d.c` and `mpigather2d.f90` extend to gathering a 2D array as described in the lectures;
-   - solutions are include (e.g. `mpigathersol.c`)
+   - solutions are include (e.g. `mpigathersol.c`);
    - there are also other codes that illustrate user-defined operations in reductions (not covered in this course).
  
 <h4>Day 2</h4>
