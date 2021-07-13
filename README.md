@@ -44,7 +44,8 @@ for private study. </blockquote></p>
 
 <h4>Day 1: Wednesday 14th July</h4>
 
- *   09:30 - 10:15 <a href="https://b.socrative.com/login/student/">MPI Quiz</a> ("Room Name is: **HPCQUIZ**)
+ *   09:30 - 09:45 <a href="slides/L00-ARCHER2-PTC-Intro.pdf">ARCHER2 and PRACE training</a>
+ *   09:45 - 10:15 <a href="https://b.socrative.com/login/student/">MPI Quiz</a> ("Room Name" is: **HPCQUIZ**)
  *   10:15 - 11:00 <a href="slides/MPI-Evolution.pdf">MPI History</a>
  *   11:00 - 11:30 Coffee
  *   11:30 - 13:00 <a href="slides/MPI-Internals.pdf">Point-to-point Performance</a>
