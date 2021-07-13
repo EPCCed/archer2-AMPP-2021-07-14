@@ -73,6 +73,8 @@ for private study. </blockquote></p>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/pingpong.tar">Ping-pong source code</a>
  * Description of 3D halo-swapping benchmark is in this <a href="https://github.com/davidhenty/halobench/">README</a>
  * Download the code directly to ARCHER2 using: `git clone https://github.com/davidhenty/halobench`
+   - compile with `make -f makefile-archer2`
+   - submit with `qsub archer2.job`
  * The collectives exercises are included in <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/collective.tar">this tar file</a>
    - instructions are included as comments at the top of each file
    - `mpigather.c` and `mpigather.f90` illustrate using vectors for gather operations;
