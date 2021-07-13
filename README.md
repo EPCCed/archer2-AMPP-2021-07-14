@@ -67,7 +67,20 @@ for private study. </blockquote></p>
 
 <h3>Exercise Material</h3>
 
+#SBATCH --qos=standard
+#SBATCH --reservation=ta033_186
+
+
 <h4>Day 1</h4>
+
+SLURM batch scripts are set to run in the short queue and should work any time. However, on days when the course is running, we have
+special reserved queues to guarantee fast turnaround.
+
+The reserved queue for today is called `ta033_186`. To use this queue, change the `--qos` and `--reservation` lines to:
+````
+#SBATCH --qos=standard
+#SBATCH --reservation=ta033_186
+````
 
  * <a href="exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/pingpong.tar">Ping-pong source code</a>
