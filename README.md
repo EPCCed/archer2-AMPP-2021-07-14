@@ -59,7 +59,7 @@ for private study. </blockquote></p>
 
  *   09:30 - 11:00 <a href="slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
  *   11:00 - 11:30 Coffee
- *   11:30 - 13:00 MPI + OpenMP (ii)
+ *   11:30 - 13:00 MPI + OpenMP (ii) *same slide deck as above*
  *   13:00 - 14:00 Lunch
  *   14:00 - 15:30 New MPI shared-memory model
  *   15:30 - 16:00 Coffee
