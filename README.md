@@ -97,6 +97,12 @@ The reserved queue for today is called `ta033_186`. To use this queue, change th
  
 <h4>Day 2</h4>
 
+The reserved queue for today is called `ta033_187`. To use this queue, change the `--qos` and `--reservation` lines to:
+````
+#SBATCH --qos=standard
+#SBATCH --reservation=ta033_187
+````
+
 To appear.
 
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
