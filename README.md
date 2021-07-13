@@ -57,7 +57,7 @@ for private study. </blockquote></p>
 
 <h4>Day 2: Friday 16th July</h4>
 
- *   09:30 - 11:00 MPI + OpenMP (i)
+ *   09:30 - 11:00 <a href="slides/L06-MPIandOpenMP.pdf">MPI + OpenMP (i)<a>
  *   11:00 - 11:30 Coffee
  *   11:30 - 13:00 MPI + OpenMP (ii)
  *   13:00 - 14:00 Lunch
