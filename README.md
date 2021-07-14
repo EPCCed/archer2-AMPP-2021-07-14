@@ -68,9 +68,7 @@ for private study. </blockquote></p>
 
 <h3>Exercise Material</h3>
 
-#SBATCH --qos=standard
-#SBATCH --reservation=ta033_186
-
+<p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
 <h4>Day 1</h4>
 
@@ -107,6 +105,3 @@ The reserved queue for today is called `ta033_187`. To use this queue, change th
  * <a href="exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/traffic.tar">Traffic model source code</a>
 
-<p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
-
-To appear.
