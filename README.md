@@ -83,10 +83,16 @@ The reserved queue for today is called `ta033_186`. To use this queue, change th
 
  * <a href="exercises/ARCHER2-pingpong.pdf">Ping-pong exercise sheet</a>
  * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/pingpong.tar">Ping-pong source code</a>
+   
  * Description of 3D halo-swapping benchmark is in this <a href="https://github.com/davidhenty/halobench/">README</a>
  * Download the code directly to ARCHER2 using: `git clone https://github.com/davidhenty/halobench`
    - compile with `make -f makefile-archer2`
    - submit with `qsub archer2.job`
+ * Other things you could do with the halo swapping benchmark:
+   - change the buffer size to be very small ( a few tens of bytes) or very large (bigger than the eager limit) to see if that affects the results;
+   - run on different number of nodes.
+ * Note that you will need to change the number of repetitions to get reasonable runtimes: many more for smaller messages, many fewer for larger messages. Each test needs to run for at least a few seconds to give reliable results.
+   
  * The collectives exercises are included in <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/collective.tar">this tar file</a>
    - instructions are included as comments at the top of each file
    - `mpigather.c` and `mpigather.f90` illustrate using vectors for gather operations;
