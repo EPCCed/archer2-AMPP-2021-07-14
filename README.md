@@ -90,7 +90,7 @@ The reserved queue for today is called `ta033_186`. To use this queue, change th
    - submit with `qsub archer2.job`
  * Other things you could do with the halo swapping benchmark:
    - change the buffer size to be very small ( a few tens of bytes) or very large (bigger than the eager limit) to see if that affects the results;
-   - run on different number of nodes.
+   - run on different numbers of nodes.
  * Note that you will need to change the number of repetitions to get reasonable runtimes: many more for smaller messages, many fewer for larger messages. Each test needs to run for at least a few seconds to give reliable results.
    
  * The collectives exercises are included in <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/collective.tar">this tar file</a>
