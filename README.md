@@ -105,7 +105,7 @@ The reserved queue for today is called `ta033_187`. To use this queue, change th
 ````
 
  * <a href="exercises/traffic-advmpi.pdf">Traffic modeling exercise sheet</a>
- * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/traffic-advmpi.tar">Traffic model source code</a>
+ * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/traffic.tar">Traffic model source code</a>
 
 <p><blockquote>Unless otherwise indicated all material is Copyright &copy; EPCC, The University of Edinburgh, and is only made available for private study. </blockquote></p>
 
