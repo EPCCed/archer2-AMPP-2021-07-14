@@ -61,7 +61,8 @@ for private study. </blockquote></p>
  *   11:00 - 11:30 Coffee
  *   11:30 - 13:00 MPI + OpenMP (ii) - *same slide deck as above*
  *   13:00 - 14:00 Lunch
- *   14:00 - 15:30 New MPI shared-memory model
+ *   14:00 - 14:30 <a href="slides/IntroRMA.pdf">RMA Access in MPI<\/>
+ *   14:30 - 15:30 <a href="slides/SharedMemoryRMA.pdf">New MPI shared-memory model</a>
  *   15:30 - 16:00 Coffee
  *   16:00 - 17:00 Finish Exercises
  *   17:00 CLOSE
