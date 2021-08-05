@@ -6,6 +6,8 @@ width="133" height="100">
 
 # ARCHER 2 Advanced MPI course (July 2021)
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 <h3>David Henty EPCC: 14 and 16 July 2021 09:30 - 17:00 BST, online</h3>
 
 This course is aimed at programmers seeking to deepen their
@@ -116,4 +118,15 @@ The reserved queue for today is called `ta033_187`. To use this queue, change th
    - for the OpenMP C version: `CFLAGS= -O3 -fopenmp`
    - for the OpenMP Fortran version: `FFLAGS= -O3 -homp`
   * <a href="https://github.com/EPCCed/archer2-AMPP-2021-07-14/raw/main/exercises/traffic-RMA.tar">Traffic model source code and solutions (MPI RMA)</a>
+
+---
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
